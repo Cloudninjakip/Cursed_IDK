@@ -1,5 +1,12 @@
+:root {
+    --font-primary: "Monocraft"
+    --font-display: "Monocraft"
+}
+
+
+
+
 @font-face {
-  font-family: 'Monocraft';
-  src: local('Monocraft'),
-       local('Monocraft Regular');
+  font-family: "Monocraft"";
+  src: url("https://github.com/Cloudninjakip/Cursed_IDK/blob/main/Monocraft_no_ligatures.ttc"),
 }
