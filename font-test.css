@@ -3,10 +3,7 @@
     --font-display: "Monocraft";
 }
 
-
-
-
 @font-face {
-  font-family: "Monocraft";
-  src: url("https://github.com/Cloudninjakip/Cursed_IDK/blob/main/Monocraft_no_ligatures.ttc") format("ttc");
+    font-family: "Monocraft";
+    src: url("https://raw.githubusercontent.com/Cloudninjakip/Cursed_IDK/main/Monocraft_no_ligatures.ttc");
 }
